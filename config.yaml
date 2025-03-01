@@ -1,0 +1,8 @@
+
+title: "Text Formatter"
+description: "Enter text and see the formatted output."
+input_label: "Enter your text here"
+input_placeholder: "Type something..."
+button_label: "Format Text"
+output_label: "Formatted Text"
+format_text: True
